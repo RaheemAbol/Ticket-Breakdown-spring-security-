@@ -139,7 +139,6 @@ For a direct backend check without adding a testing panel or using Postman, sign
 
 ## Definition of done
 
-- Submit the completed **SecurityConfiguration.java** and evidence of the three tickets' frontend results.
 - Only that Java source file changes. Preserve the supplied services, controllers, repositories, entities and frontend.
 - Keep the provided CSRF, BCrypt and session settings.
 - Keep `anyRequest().denyAll()` last.
